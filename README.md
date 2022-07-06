@@ -34,4 +34,3 @@
 <img href="https://raw.githubusercontent.com/th3-rocha/th3-rocha/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-Profile Readme Generator
