@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B;his+is+Murilo+da+ROCHA;Nice+to+Meet+You!)](https://git.io/typing-svg)
 
-###
+------------
+
+
 
 <p align="left">I live in Brazil, Rio Grande do Norte 🌵🌵<br>I am a Information Technology student 🖥️<br>I am Front-end Developer 🌐<br>and sometimes a Game Developer🕹️👾</p>
 
