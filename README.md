@@ -5,6 +5,7 @@
 
 
 <p align="left">I live in Brazil, Rio Grande do Norte 🌵🌵<br>I am a Information Technology student 🖥️<br>I am Front-end Developer 🌐<br>and sometimes a Game Developer🕹️👾</p>
+📬 How to reach me: murilorocha537@gmail.com 
 
 ###
 
