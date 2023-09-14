@@ -1,34 +1,47 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;his+is+Murilo+da+ROCHA;Nice+to+Meet+You!)](https://git.io/typing-svg)
+# Hi There! 👋
 
-------------
+I'm Murilo da Rocha, a passionate Information Technology student from Brazil, specifically from Rio Grande do Norte 🌵🌵. I wear multiple hats, including being a Front-end Developer 🌐 and occasionally diving into the world of Game Development 🕹️👾.
 
+## About Me
 
+- 🌎 Location: Brazil, Rio Grande do Norte
+- 🖥️ Occupation: Information Technology Student
+- 🌐 Front-end Developer
+- 🕹️ Game Developer (part-time)
 
-<p align="left">I live in Brazil, Rio Grande do Norte 🌵🌵<br>I am a Information Technology student 🖥️<br>I am Front-end Developer 🌐<br>and sometimes a Game Developer🕹️👾</p>
-📬 How to reach me: murilorocha537@gmail.com 
+## Contact Me 📬
 
-###
+You can reach me via email: [murilorocha537@gmail.com](mailto:murilorocha537@gmail.com)
 
-<p align="left">Follow me:</p>
+## Follow Me 🚀
 
-###
+Connect with me on these platforms:
 
-<div align="left">
-  <a href="Da_Rocha01" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="Murilo Rocha#5497" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="murilorocha537@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+- [Twitter](https://twitter.com/Da_Rocha01)
+- Discord: Murilo Rocha#5497
+- Email: [murilorocha537@gmail.com](mailto:murilorocha537@gmail.com)
 
-###
+## GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=th3-rocha" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=th3-rocha" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=th3-rocha&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3-rocha&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
+
+## Tech Stack 💻
+
+Here are some of the technologies I work with:
+
+- Front-end: HTML, CSS, JavaScript, React
+- Game Development: Unity, C#
+- Other: Git, VSCode
+
+## Projects 🚀
+
+Check out some of my projects:
+
+- [Project 1](link-to-project1): Brief project description.
+- [Project 2](link-to-project2): Brief project description.
+
+Feel free to explore my repositories for more exciting projects!
 
