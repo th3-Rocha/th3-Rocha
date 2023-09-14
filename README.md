@@ -40,8 +40,8 @@ Here are some of the technologies I work with:
 
 Check out some of my projects:
 
-- [Bloch Sphere with react]([link-to-project1](https://github.com/th3-Rocha/Bloch-sphere-with-React-Three-Fiber)): Brief project description.
-- [Twitter frontend Clone]([link-to-project2](https://github.com/th3-Rocha/Sibite-react)): Brief project description.
+- [Bloch Sphere with react](https://github.com/th3-Rocha/Bloch-sphere-with-React-Three-Fiber)
+- [Twitter frontend Clone](https://github.com/th3-Rocha/Sibite-react)
 
 Feel free to explore my repositories for more exciting projects!
 
