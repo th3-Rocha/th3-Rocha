@@ -24,7 +24,6 @@ Connect with me on these platforms:
 ## GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=th3-rocha&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3-rocha&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
