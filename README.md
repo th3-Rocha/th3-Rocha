@@ -1,25 +1,32 @@
 # Hi There! 👋
 
-I'm Murilo da Rocha, a passionate Information Technology student from Brazil, specifically from Rio Grande do Norte 🌵🌵. I wear multiple hats, including being a Front-end Developer 🌐 and occasionally diving into the world of Game Development 🕹️👾.
+I'm **Murilo da Rocha**, a passionate Information Technology student and a **Full Stack Developer**. I love building scalable web applications and exploring complex backend architectures.
 
 ## About Me
 
-- 🌎 Location: Brazil, Rio Grande do Norte
-- 🖥️ Occupation: Information Technology Student
-- 🌐 Front-end Developer
-- 🕹️ Game Developer (part-time)
+- 💻 **Focus:** Full Stack Web Development (Node.js & PHP ecosystems)
+- 🎓 **Occupation:** Information Technology Student
+- 🐧 **Enthusiast:** Linux & Open Source
+- ⚡ **Currently learning:** Advanced System Architectures & Docker containers
 
-## Contact Me 📬
+## Tech Stack 💻
 
-You can reach me via email: [murilorocha537@gmail.com](mailto:murilorocha537@gmail.com)
+I work with a variety of technologies to build robust applications:
 
-## Follow Me 🚀
+### 🎨 Front-end
+- **Frameworks:** Next.js, React
+- **Languages:** TypeScript, C#,
+- **Styling:** Tailwind CSS
 
-Connect with me on these platforms:
+### ⚙️ Back-end
+- **Languages:** Node.js, PHP
+- **Frameworks:** Laravel, Express
+- **Databases:** MySQL, PostgreSQL
 
-- [Twitter](https://twitter.com/Da_Rocha01)
-- Discord: Murilo Rocha#5497
-- Email: [murilorocha537@gmail.com](mailto:murilorocha537@gmail.com)
+### 🛠️ Tools & DevOps
+- **Environment:** Docker, Linux (Arch)
+- **Version Control:** Git, GitHub
+- **Editor:** VSCode, Zed
 
 ## GitHub Stats 📊
 
@@ -27,20 +34,6 @@ Connect with me on these platforms:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3-rocha&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
-## Tech Stack 💻
+## Contact Me 📬
 
-Here are some of the technologies I work with:
-
-- Front-end: HTML, CSS, JavaScript, React
-- Game Development: Unity, C#
-- Other: Git, VSCode
-
-## Projects 🚀
-
-Check out some of my projects:
-
-- [Bloch Sphere with react](https://github.com/th3-Rocha/Bloch-sphere-with-React-Three-Fiber)
-- [Twitter frontend Clone](https://github.com/th3-Rocha/Sibite-react)
-
-Feel free to explore my repositories for more exciting projects!
-
+You can reach me via email: [murilorocha537@gmail.com](mailto:murilorocha537@gmail.com)
