@@ -4,7 +4,7 @@ I'm **Murilo da Rocha**, a passionate Information Technology student and a **Ful
 
 ## About Me
 
-- 💻 **Focus:** Full Stack Web Development (Node.js & PHP ecosystems)
+- 💻 **Focus:** Full Stack Web Development (Node.js & NestJS ecosystems)
 - 🎓 **Occupation:** Information Technology Student
 - 🐧 **Enthusiast:** Linux & Open Source
 - ⚡ **Currently learning:** Advanced System Architectures & Docker containers
@@ -15,12 +15,12 @@ I work with a variety of technologies to build robust applications:
 
 ### 🎨 Front-end
 - **Frameworks:** Next.js, React
-- **Languages:** TypeScript, C#,
+- **Languages:** TypeScript, C#
 - **Styling:** Tailwind CSS
 
 ### ⚙️ Back-end
-- **Languages:** Node.js, PHP
-- **Frameworks:** Laravel, Express
+- **Languages:** TypeScript, Node.js
+- **Frameworks:** NestJS, Express.
 - **Databases:** MySQL, PostgreSQL
 
 ### 🛠️ Tools & DevOps
