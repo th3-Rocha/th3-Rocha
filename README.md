@@ -32,14 +32,7 @@ I work with a variety of technologies, focusing heavily on robust, maintainable 
 -   **Environment:** Docker, Linux (Arch)
 -   **Version Control:** Git, GitHub
 -   **Editor:** Visual Studio, Zed
-    
-### GitHub Stats
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/th3-Rocha?theme=dark">
-    <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/th3-Rocha">
-  </picture>
-</div>
+
 
 ## Contact Me
 
