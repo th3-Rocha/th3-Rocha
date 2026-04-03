@@ -1,39 +1,39 @@
-# Hi There! 👋
-
-I'm **Murilo da Rocha**, a passionate Information Technology student and a **Full Stack Developer**. I love building scalable web applications and exploring complex backend architectures.
+# Hi There!
+I'm **Murilo da Rocha**, an Information Technology student and a **Full Stack Developer**. I specialize in building scalable web applications and enterprise-level backend architectures using C#, ASP.NET Core, and React/Next.js. I also have a deep passion for game development and love bringing ideas to life in Unity using C#.
 
 ## About Me
+-   **Focus:** Enterprise Backend Architecture (Clean Architecture, DDD) & Full Stack Web Development
+-   **Occupation:** Information Technology Studen
+-   **Enthusiast:** Linux & Open Source
+-   **Currently learning:** Advanced Microservices, Docker containers, and Cloud deployments
 
-- 💻 **Focus:** Full Stack Web Development (Node.js & NestJS ecosystems)
-- 🎓 **Occupation:** Information Technology Student
-- 🐧 **Enthusiast:** Linux & Open Source
-- ⚡ **Currently learning:** Advanced System Architectures & Docker containers
+## Tech Stack
+I work with a variety of technologies, focusing heavily on robust, maintainable backend systems and interactive front-ends:
+### Back-end & Architecture (C# / .NET Focus)
+-   **Core:** C#, .NET / ASP.NET Core, Node.js (NestJS, Express)
+-   **Architecture & Patterns:** Clean Architecture, Domain-Driven Design (DDD), CQRS (MediatR), SOLID Principles
+-   **Data Access & ORMs:** Entity Framework Core (EF Core), Dapper, LINQ
+-   **Security & APIs:** Identity, JWT Authentication, RESTful Web APIs, Minimal APIs
+-   **Databases:** SQL Server, PostgreSQL, MySQL
+    
 
-## Tech Stack 💻
+### Front-end
+-   **Frameworks:** React, Next.js
+-   **Languages:** TypeScript, JavaScript
+-   **Styling:** Tailwind CSS
+    
 
-I work with a variety of technologies to build robust applications:
+### Game Development
+-   **Engine:** Unity, Godot
+-   **Languages:** C#
 
-### 🎨 Front-end
-- **Frameworks:** Next.js, React
-- **Languages:** TypeScript, C#
-- **Styling:** Tailwind CSS
+### Tools & DevOps
 
-### ⚙️ Back-end
-- **Languages:** TypeScript, Node.js
-- **Frameworks:** NestJS, Express.
-- **Databases:** MySQL, PostgreSQL
+-   **Environment:** Docker, Linux (Arch)
+-   **Version Control:** Git, GitHub
+-   **Editor:** Visual Studio, Zed
+    
 
-### 🛠️ Tools & DevOps
-- **Environment:** Docker, Linux (Arch)
-- **Version Control:** Git, GitHub
-- **Editor:** VSCode, Zed
+## Contact Me
 
-## GitHub Stats 📊
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3-rocha&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-</div>
-
-## Contact Me 📬
-
-You can reach me via email: [murilorocha537@gmail.com](mailto:murilorocha537@gmail.com)
+You can reach me via email: [murilorocha537@gmail.com](mailto:murilorocha537@gmail.com "null")
